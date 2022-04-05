@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "S3l/lIKZRX2jkAjhc/ruo5IoYAs3eQ8e73GQ9lDEqNKArWSn5IS/YIdAtzKtgOt6t9DGrz+rMw6fsHPjqeD4Mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lilpo\\source\\repos\\notif_bot\\notif_bot\\notif_bot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lilpo\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\lilpo\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\lilpo\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\lilpo\\.nuget\\packages\\system.threading.channels\\6.0.0\\system.threading.channels.6.0.0.nupkg.sha512",
+    "C:\\Users\\lilpo\\.nuget\\packages\\telegram.bot\\17.0.0\\telegram.bot.17.0.0.nupkg.sha512",
+    "C:\\Users\\lilpo\\.nuget\\packages\\telegram.bot.extensions.polling\\1.0.2\\telegram.bot.extensions.polling.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
