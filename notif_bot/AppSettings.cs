@@ -8,7 +8,7 @@ namespace notif_bot
     {
         public static string Url { get; set; } = "https://URL:443/{0}";
         public static string Name { get; set; } = "<BOT_NAME>";
-        public static string Key { get; set; } = "pipa-pipa";
+        public static string Key { get; set; } = "pipa-pipa"; //the token has been hidden for the sake of confidentiality
 
         public static string helpMessage { get; set; } = "Бот Caesar имеет следующие функции: \n" +
                                                          "Команда /binary  зашифровать данные в двоичный код. \n" +
